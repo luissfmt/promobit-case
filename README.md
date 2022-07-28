@@ -17,7 +17,7 @@ A ideia do case é utilizar a API gratuita de filmes [ThemovieDB](https://develo
 
 ## ✋ Observações
 
-- Projeto baseado em um case front-end da empresa Promobit. (https://github.com/Promobit/front-end-challenge);
+- Projeto baseado em um case front-end da empresa Promobit. ([Link do Case](https://github.com/Promobit/front-end-challenge));
 - Ainda não possui paginação e 100% de responsividade.
 - Atualmente, possui alguns poucos bugs como: <br>
   <strong>Após utilizar e remover os filtros, a lista de filmes populares não está aparecendo novamente. <br>
